@@ -1,0 +1,7 @@
+python-telegram-bot
+requests
+bs4
+telebot
+BeautifulSoup
+types
+
