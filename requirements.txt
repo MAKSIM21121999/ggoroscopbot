@@ -3,5 +3,3 @@ requests
 bs4
 telebot
 beautifulsoup4
-types
-
